@@ -1,8 +1,8 @@
-speed_sign:
+speed_sign: up close picture of speed sign
 
 read "SPEED" and then no number
 
-speed_sign_2:
+speed_sign_2: speed sign off to the side of the picture
 
 read nothing. Had error because the speed sign is off the screen
 
