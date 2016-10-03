@@ -1,0 +1,9 @@
+speed_sign:
+
+read "SPEED" and then no number
+
+speed_sign_2:
+
+read nothing. Had error because the speed sign is off the screen
+
+
